@@ -2,6 +2,9 @@
 
 Just a normal bookstore features react application to show how Redux can be used with firebase database
 
+![1](https://github.com/Niraj-Koli/Bookstore-Redux/assets/113058131/88b96b25-f9db-414f-ae75-6cbe77ce952b)
+![2](https://github.com/Niraj-Koli/Bookstore-Redux/assets/113058131/1e970daa-0a64-4612-9c9a-526106280cb0)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
